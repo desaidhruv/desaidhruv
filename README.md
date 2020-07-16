@@ -1,5 +1,4 @@
-
-<img alt="alt text" width="100" height="100">![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)</img>
+<img src="https://github.com/desaidhruv/desaidhruv/blob/master/hello.gif" alt="alt text" width="100" height="100" />
 
 ### Hi there, !'m Dhruv Desai 👋
 <br>
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)
 -->
 
 ![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=desaidhruv&show_icons=true&hide_border=true)
