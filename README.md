@@ -1,14 +1,15 @@
-<a href="https://twitter.com/rahul_79911">
-  <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rahul-agrawal-0958a416a">
-  <img align="left" alt="Rahul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/rahul799/">
-  <img align="left" alt="Rahul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<br>
+
 ### Hi there, !'m Dhruv Desai 👋
+<br>
+<a href="https://twitter.com/dhruvshah281">
+  <img align="left" alt="Dhruv Desai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dhruv-desai-4b8840168/">
+  <img align="left" alt="Dhruv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/dhruvshah28">
+  <img align="left" alt="Dhruv's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+</a>
 
 
 - 🔭 I’m a Frontend Developer.
