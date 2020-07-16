@@ -1,4 +1,4 @@
-<img src="https://github.com/desaidhruv/desaidhruv/blob/master/hello.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/desaidhruv/desaidhruv/blob/master/hello.gif" alt="alt text" width="250" height="200" />
 
 ### Hi there, !'m Dhruv Desai 👋
 <br>
