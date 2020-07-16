@@ -1,3 +1,4 @@
+![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)
 
 ### Hi there, !'m Dhruv Desai 👋
 <br>
