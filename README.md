@@ -1,4 +1,5 @@
-![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)
+
+<img alt="alt text" width="100" height="100">![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)</img>
 
 ### Hi there, !'m Dhruv Desai 👋
 <br>
