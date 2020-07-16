@@ -10,7 +10,10 @@
 <a href="https://www.hackerrank.com/dhruvshah28">
   <img align="left" alt="Dhruv's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<br>
+
+<br/>
+
+
 
 - 🔭 I’m a Frontend Developer.
 - 🌱 I’m currently learning Django.
