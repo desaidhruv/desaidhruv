@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 ![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)
 -->
 
-![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=desaidhruv&show_icons=true&hide_border=true)
+![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=desaidhruv&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desaidhruv&layout=compact)](https://github.com/desaidhruv/github-readme-stats)
