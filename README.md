@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 -->
 
 ![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=desaidhruv&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desaidhruv&layout=compact)](https://github.com/desaidhruv/github-readme-stats)
