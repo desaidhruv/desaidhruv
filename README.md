@@ -17,12 +17,10 @@
 <br>
 
 
-- 🔭 I’m a Frontend Developer.
-- 🌱 I’m currently learning Django.
+- 🔭 I’m a Backend Developer.
+- 🌱 I’m currently working on Spring and Spring boot.
 - 👯 I’m looking to collaborate on full stack projects.
 - 💬 Ask me about : Web development stuff.
-- 🤔 I’m looking for help with backend services and API's.
-- ⚡ Fun fact: This feature is really cool.
 
 <!--
 **desaidhruv/desaidhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
