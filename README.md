@@ -56,3 +56,9 @@ Here are some ideas to get you started:
 
 
 ![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=desaidhruv&show_icons=true&hide_border=truetheme=cobalt)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
+ <img alt="snake!" src="./snake.svg">
+</picture>
+
